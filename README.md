@@ -55,4 +55,4 @@ python GUI.py
 
 ## Author
 
-Sara
+Sara Khaled ElSawy
